@@ -23,7 +23,7 @@
 ### Articles
  
 - [How to unit test Vue components for beginners](https://eddyerburgh.me/unit-test-vue-components-beginners)
-- [https://eddyerburgh.me/unit-test-vue-components](https://eddyerburgh.me/unit-test-vue-components)
+- [How to unit test Vue components](https://eddyerburgh.me/unit-test-vue-components)
 - [How to write blazing fast Vue unit tests](https://school.geekwall.in/p/B1OrJD8Gz/how-to-write-blazing-fast-vue-unit-tests)
 - [Why test Vue applications?](https://codeburst.io/why-test-vue-applications-95d5be99206c)
 
