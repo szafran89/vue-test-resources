@@ -11,14 +11,13 @@
   * [Other Videos](#other-videos)
 
 
-# Official Resources
+## Official Resources
 
 - [Unit Testing Official Guide](https://vuejs.org/v2/guide/unit-testing.html)
 - [Cookbook Unit Testing Vue Components](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)
 - [Vue Test Utils](https://vue-test-utils.vuejs.org)
 
-
-# External Resources
+## External Resources
 
 ### Articles
  
@@ -50,7 +49,6 @@
 [Please follow these recommendations](CONTRIBUTING.md).
 
 
-
-# LICENSE
+## LICENSE
 
 This project is licensed under the MIT license - see the [LICENSE](LICENSE) for details.
