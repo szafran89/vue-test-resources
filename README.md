@@ -33,8 +33,9 @@
 
 ### Talks
 
-- [Roman Kuba - Testing Vue components with Jest | VueConf 2017](https://www.youtube.com/watch?v=pqp0PsPBO_0)
+- [Roman Kuba - Testing Vue components with Jest | VueConf EU 2017](https://www.youtube.com/watch?v=pqp0PsPBO_0)
 - [Edd Yerburgh - Unit testing Vue components | Vuejs Amsterdam 2018](https://www.youtube.com/watch?v=pqp0PsPBO_0)
+- [Edd Yerburgh - Testing Vue Apps | VueConf US 2018](https://www.youtube.com/watch?v=Bohm6Yhaxvo)
 
 ### Other Videos
 
