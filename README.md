@@ -30,6 +30,7 @@
 ### Books
 
 - [Testing Vue.js Applications MEAP](https://www.manning.com/books/testing-vuejs-applications)
+- [Testing Vue.js components with Jest](https://leanpub.com/testingvuejscomponentswithjest)
 
 ### Talks
 
