@@ -27,6 +27,7 @@
 - [Why test Vue applications?](https://codeburst.io/why-test-vue-applications-95d5be99206c)
 - [Testing like a Pro in JavaScript series](https://vueschool.io/articles/series/testing-like-a-pro-in-javascript/)
 - [How to Write A Unit Test for Vue.js](https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs)
+- [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/)
 
 ### Books
 
