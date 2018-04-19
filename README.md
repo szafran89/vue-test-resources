@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Official Resources](#official-resources)
 * [External Resources](#external-resources)
-  * [Articles/Tutorials](#articles-tutorials)
+  * [Articles/Tutorials](#articlestutorials)
   * [Books](#books)
   * [Talks](#talks)
   * [Other Videos](#other-videos)
