@@ -9,6 +9,7 @@
   * [Books](#books)
   * [Talks](#talks)
   * [Other Videos](#other-videos)
+  * [Examples](#examples)
 
 
 ## Official Resources
@@ -46,6 +47,10 @@
 - [Learn How To Test With Vue.js | Program With Erik](https://www.youtube.com/watch?v=d2QKTNmU-Tc)
 - [Vue Component Testing | Frontend NE
 ](https://www.youtube.com/watch?v=uh9RQhO5JOM)
+
+### Examples
+
+- [Project using Jest + vue-test-utils together](https://github.com/vuejs/vue-test-utils-jest-example)
 
 
 ## CONTRIBUTING
