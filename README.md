@@ -29,6 +29,7 @@
 - [Testing like a Pro in JavaScript series](https://vueschool.io/articles/series/testing-like-a-pro-in-javascript/)
 - [How to Write A Unit Test for Vue.js](https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs)
 - [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/)
+- [End-To-End Testing A VueJS HackerNews Clone](https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/?jsdojo_id=medium_e2e)
 
 ### Books
 
