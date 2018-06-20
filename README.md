@@ -31,6 +31,7 @@
 - [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/)
 - [End-To-End Testing A VueJS HackerNews Clone](https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/?jsdojo_id=medium_e2e)
 - [Unit testing with Vue.js (using vue-test-utils, mocha-webpack and the vue-cli)](http://www.dotnetcurry.com/vuejs/1441/vuejs-unit-testing)
+- [Testing Vue Components with Mocha and Webpack](https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9)
 
 ### Books
 
