@@ -54,6 +54,7 @@
 ### Examples
 
 - [Project using Jest + vue-test-utils together](https://github.com/vuejs/vue-test-utils-jest-example)
+- [Project template using Jest, vue-test-utils, and TestCafe](https://github.com/wemake-services/wemake-vue-template)
 
 
 ## CONTRIBUTING
