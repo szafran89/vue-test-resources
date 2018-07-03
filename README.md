@@ -32,6 +32,7 @@
 - [End-To-End Testing A VueJS HackerNews Clone](https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/?jsdojo_id=medium_e2e)
 - [Unit testing with Vue.js (using vue-test-utils, mocha-webpack and the vue-cli)](http://www.dotnetcurry.com/vuejs/1441/vuejs-unit-testing)
 - [Testing Vue Components with Mocha and Webpack](https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9)
+- [Learn Test-Driven Development in Vue](https://learntdd.in/vue/)
 
 ### Books
 
@@ -43,6 +44,7 @@
 - [Roman Kuba - Testing Vue components with Jest | VueConf EU 2017](https://www.youtube.com/watch?v=pqp0PsPBO_0)
 - [Edd Yerburgh - Unit testing Vue components | Vuejs Amsterdam 2018](https://www.youtube.com/watch?v=LxXsGNXsMo8)
 - [Edd Yerburgh - Testing Vue Apps | VueConf US 2018](https://www.youtube.com/watch?v=Bohm6Yhaxvo)
+- [Outside-In Testing in Vue | Atlanta Vue.js Meetup](https://www.youtube.com/watch?v=CMN8boToKWI)
 
 ### Other Videos
 
