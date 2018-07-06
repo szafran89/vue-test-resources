@@ -33,6 +33,7 @@
 - [Unit testing with Vue.js (using vue-test-utils, mocha-webpack and the vue-cli)](http://www.dotnetcurry.com/vuejs/1441/vuejs-unit-testing)
 - [Testing Vue Components with Mocha and Webpack](https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9)
 - [Learn Test-Driven Development in Vue](https://learntdd.in/vue/)
+- [Mocking Vuex in Vue unit tests](https://medium.com/@lachlanmiller_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301)
 
 ### Books
 
