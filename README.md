@@ -34,6 +34,7 @@
 - [Testing Vue Components with Mocha and Webpack](https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9)
 - [Learn Test-Driven Development in Vue](https://learntdd.in/vue/)
 - [Mocking Vuex in Vue unit tests](https://medium.com/@lachlanmiller_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301)
+- [A gentle introduction to testing Vue applications](https://www.codementor.io/bahdcoder/a-gentle-introduction-to-testing-vue-applications-kood8xmk3)
 
 ### Books
 
