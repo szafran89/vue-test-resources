@@ -36,6 +36,7 @@
 - [Mocking Vuex in Vue unit tests](https://medium.com/@lachlanmiller_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301)
 - [A gentle introduction to testing Vue applications](https://www.codementor.io/bahdcoder/a-gentle-introduction-to-testing-vue-applications-kood8xmk3)
 - [Testing vue-apollo Components with Jest](https://dev.to/vuevixens/testing-vue-apollo-components-with-jest-3gj3)
+- [Unit Test Your First Vue.js Component](https://frontstuff.io/unit-test-your-first-vuejs-component)
 
 ### Books
 
