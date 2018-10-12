@@ -37,6 +37,7 @@
 - [A gentle introduction to testing Vue applications](https://www.codementor.io/bahdcoder/a-gentle-introduction-to-testing-vue-applications-kood8xmk3)
 - [Testing vue-apollo Components with Jest](https://dev.to/vuevixens/testing-vue-apollo-components-with-jest-3gj3)
 - [Unit Test Your First Vue.js Component](https://frontstuff.io/unit-test-your-first-vuejs-component)
+- [Testing real world VueJs apps](https://itnext.io/testing-real-world-vuejs-apps-d3e44118f8ce)
 
 ### Books
 
@@ -55,8 +56,7 @@
 
 - [How To Test With Vue.js Using Test Driven Development WIth Edd Yerburgh | Program With Erik](https://www.youtube.com/watch?v=jQ6P6PaSi9U)
 - [Learn How To Test With Vue.js | Program With Erik](https://www.youtube.com/watch?v=d2QKTNmU-Tc)
-- [Vue Component Testing | Frontend NE
-](https://www.youtube.com/watch?v=uh9RQhO5JOM)
+- [Vue Component Testing | Frontend NE](https://www.youtube.com/watch?v=uh9RQhO5JOM)
 
 ### Examples
 
